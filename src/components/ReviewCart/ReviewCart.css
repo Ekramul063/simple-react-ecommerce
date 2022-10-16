@@ -1,0 +1,31 @@
+.cartItem {
+    padding: 10px;
+    border: 1px solid orangered;
+    display: flex;
+    margin-bottom: 15px;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+.shape{
+    display: flex;
+    max-width: 400px;
+}
+.products-thumnail img{
+    width: 100px;
+}
+.review-details{
+    margin-left: 8px;
+}
+.price{
+    color:red;
+    display: inline-block;
+    margin-right: 10px;
+}
+.delete{
+    color: azure;
+    border:none;
+    background-color: red;
+    padding: 5px 10px;
+    margin-left: 10px;
+}

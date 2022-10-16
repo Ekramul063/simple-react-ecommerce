@@ -1,0 +1,23 @@
+.cart{
+    position: sticky;
+    top:0;
+}
+.cartTitle{
+    padding: 10px 0px;
+}
+.clear-cart{
+    padding: 5px 10px;
+    display: block;
+    background-color: red;
+    color: #ffffff;
+    border:none;
+    margin-bottom: 15px;
+}
+.order-review{
+    padding: 5px 10px;
+    display: block;
+    background-color: orange;
+    color: #ffffff;
+    border:none;
+    margin-bottom: 15px;
+}
